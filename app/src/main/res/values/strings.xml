@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutonomiaTotalMVC</string>
+    <string name="nome_carro">Nome do Carro</string>
+    <string name="hint_carro">Digite o nome do carro</string>
+    <string name="km">Km Percorrida</string>
+    <string name="hint_km">Quantos km vc percorreu?</string>
+    <string name="qtdCombustivel">Quantidade de Combustivel</string>
+    <string name="hint_qtdCombustivel">Quanto combustivel foi gasto?</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar_dados">Limpar Dados</string>
+    <string name="carro">Carro</string>
+    <string name="erro_nome">Nome errado!</string>
+    <string name="erro_km">Kilometragem errada!</string>
+    <string name="erro_qtdCombustivel">Qtde de Combustivel invalida!</string>
+</resources>
